@@ -1,0 +1,5 @@
+主要参考http://www.cnblogs.com/pkuoliver/archive/2010/10/06/sotry-about-sqrt.html#!comments
+
+辅助参考http://stackoverflow.com/questions/17475112/why-x-x1-5f-xhalfxx-can-be-a-newton-method-iteration
+（解决了InvSqrt函数中的x = x * (1.5f - xhalf*x*x); // Newton step）
+
